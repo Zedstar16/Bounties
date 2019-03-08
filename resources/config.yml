@@ -1,0 +1,9 @@
+---
+#tags: {bounty}
+#This is the tag that will display under the players name if they have a bounty
+bounty-tag: "Bounty: ${bounty}"
+#this is what will be broadcast when a player claims the bounty
+#tags: {reward} {killer} {player}
+bounty-claimed: "{killer} claimed ${reward} from killing {player}"
+
+...

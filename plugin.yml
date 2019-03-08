@@ -1,0 +1,8 @@
+name: Bounties
+main: Zedstar16\Bounties\Main
+version: 1.0
+api: 3.2.0
+load: POSTWORLD
+author: Zedstar16
+description: Add bounties (incentives) to players
+website: https://github.com/zedstar16/Bounties
